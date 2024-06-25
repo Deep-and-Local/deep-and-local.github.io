@@ -34,6 +34,14 @@ permalink: /to_shop_owners/
 外国人観光客の方々もわざわざ遠くの国から来たのですから、観光客向けの場所だけでなく地元の人々が利用しているお店にも行ってみたいと思っています。
 **もし少しの枠でもそのようなお客様のためにご案内することができるのであれば**、その席をご案内し、地元向け店舗と外国人観光客のお客様を繋ぐ手助けをしたいと思っております。
 
+---
+
+# 情報掲載依頼
+
+新規で店舗情報の掲載を依頼される方は、こちらの申し込みフォームよりお願いいたします。
+
+<a href="https://forms.gle/8xat9AQwJPdWtgQS9" class="btn btn--info">情報掲載のお申し込み</a>
+
 
 ---
 
@@ -45,6 +53,5 @@ permalink: /to_shop_owners/
 
 どちらの場合においても、本人確認をさせていただいた上で対応させていただきますので、予めご了承ください。
 
-<div class="map">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdB4Xdb62MIDx8UiP9JrhrZ6lbQQfE0i3hFrj7evs-p6LtvA/viewform?embedded=true" width="640" height="938" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
-</div>
+<a href="https://forms.gle/vfjAW4JG2Ze1SU9G6" class="btn btn--warning">掲載情報変更・削除依頼</a>
+

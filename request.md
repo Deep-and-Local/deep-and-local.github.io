@@ -43,3 +43,8 @@ We assist you discover real local shops!
 **[Seats Not Guaranteed]** Please be aware that our service is to *assist* you in making a reservation through web searches and phone calls. 
 As many small shops and restaurants have limited capacity and availability, please keep in mind that the chance of securing a seat for you is not always high.
 {: .notice}
+
+**[At Least 3 Hours In Advance]** While we try to handle your request as quickly as possible, please understand that it may take a few hours to respond.
+{: .notice}
+
+<p>Please also check our <a href="/terms">Terms of Service</a> and <a href="/privacy_policy">Privacy Policy</a>.</p>
