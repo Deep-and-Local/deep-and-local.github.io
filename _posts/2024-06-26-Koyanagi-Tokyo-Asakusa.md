@@ -4,7 +4,7 @@ author:
   status: unknown
   last_modified_at: 2024-06-26
 image: 
-  # path: /images/so-simple-sample-image-1.jpg
+  path: /images/Koyanagi.jpg
   # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
