@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Shop Availability Guide"
-description: "Some local shops welcome foreign customers, while others are not ready for it." #"Unfortunately, not all shops accept every customer due to limited availability."
+description: "Some local shops welcome every customer, while others are not ready for it." #"Unfortunately, not all shops accept every customer due to limited availability."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
