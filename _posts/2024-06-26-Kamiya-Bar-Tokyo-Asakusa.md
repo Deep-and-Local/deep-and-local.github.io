@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Kamiya-Bar.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Kamiya-Bar.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Other
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Ancient (Founded Before 1900)
+since: 1880
 share: false
 request: true
 ---
@@ -45,6 +45,9 @@ Founded in the 13th year of the Meiji era (1880), located at 1-1 Asakusa. Japan'
 
 Location
 : 〒111-0032, 1 Chome-1-1 Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

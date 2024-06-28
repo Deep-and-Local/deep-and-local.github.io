@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Koyanagi.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Koyanagi.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Eel
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Vintage (Founded 1900-1959)
+since: 1926
 share: false
 request: true
 ---
@@ -41,6 +41,9 @@ Koyanagi is known for its irresistible aroma drifting from the storefront, entic
 
 Location
 : 〒111-0032, 1 Chome-29-11 Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

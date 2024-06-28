@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Komakata-Dozeu.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Komakata-Dozeu.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Japanese Cuisine
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Ancient (Founded Before 1900)
+since: 1801
 share: false
 request: true
 ---
@@ -46,6 +46,9 @@ Status: Limited
 
 Location
 : 〒111-0043, 1 Chome-7-12 Komagata, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

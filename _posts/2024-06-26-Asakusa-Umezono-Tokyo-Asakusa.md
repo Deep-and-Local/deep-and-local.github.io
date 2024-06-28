@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Asakusa-Umezono.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Asakusa-Umezono.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Sweets
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Ancient (Founded Before 1900)
+since: 1854
 share: false
 request: true
 ---
@@ -45,6 +45,9 @@ Founded in the first year of the Ansei era (1854), the shop began by opening a t
 
 Location
 : 〒111-0032, 1 Chome-31-12 Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

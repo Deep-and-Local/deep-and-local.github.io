@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Asakusa-Imahan.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Asakusa-Imahan.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Sukiyaki/Shabu-Shabu
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Ancient (Founded Before 1900)
+since: 1895
 share: false
 request: true
 ---
@@ -45,6 +45,9 @@ Status: Welcome
 
 Location
 : 〒111-0035, 3 Chome-1-12 Nishiasakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

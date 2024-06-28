@@ -5,13 +5,14 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Owariya.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Owariya.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Tempura
+  - Noodle
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Ancient (Founded Before 1900)
+since: 1860
 share: false
 request: true
 ---
@@ -37,6 +38,9 @@ Status: Welcome
 
 Location
 : 〒111-0032, 1 Chome-7-1 Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

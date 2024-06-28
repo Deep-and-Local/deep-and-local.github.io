@@ -1,5 +1,5 @@
 ---
-title: Area-based List
+title: Era-based List
 layout: tags
 permalink: /tags/
 show_excerpts: true

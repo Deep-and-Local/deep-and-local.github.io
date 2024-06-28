@@ -10,10 +10,10 @@ image:
 categories:
   - Izakaya
 tags:
-  - Tokyo - Asakusa
+  - Modern (Founded 2000 and Later)
 hidden: true
 share: false
-request: true
+request: false
 ---
 
 ```yaml
@@ -23,7 +23,7 @@ Status: Very Limited
 > **You are very unlikely to get a seat unless**
 > 
 > - You are fluent in Japanese
-{: .notice--error}
+{: .notice--danger}
 
 
 <p>　</p>
@@ -38,6 +38,9 @@ Status: Very Limited
 
 Location
 : 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2 Chome−27−3
+
+Since
+: ?
 
 Best Time to Visit (≠ Opening Hours)
 : --

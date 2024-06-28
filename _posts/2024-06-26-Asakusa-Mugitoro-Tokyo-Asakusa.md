@@ -5,13 +5,13 @@ author:
   last_modified_at: 2024-06-26
 image: 
   path: /images/Asakusa-Mugitoro.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Asakusa-Mugitoro.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Japanese Cuisine
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Vintage (Founded 1900-1959)
+since: 1929
 share: false
 request: true
 ---
@@ -44,6 +44,9 @@ Asakusa Mugitora has been serving our customers since the 4th year of the Showa 
 
 Location
 : 〒111-0032, 1 Chome-19-7 Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

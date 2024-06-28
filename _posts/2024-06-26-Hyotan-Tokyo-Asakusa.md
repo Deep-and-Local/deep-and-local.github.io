@@ -1,27 +1,28 @@
 ---
 title: "Hyotan"
 author:
-  status: limited
+  status: very_limited
   last_modified_at: 2024-06-26
 image: 
   path: /images/Hyotan.jpg
-  # thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+  thumbnail: /images/Hyotan.jpg
   # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Okonomiyaki/Monja
 tags:
-  - Tokyo - Asakusa
-hidden: false
+  - Modern (Founded 2000 and Later)
+since: "?"
 share: false
 request: true
 ---
 
 ```yaml
-Status: Limited 
+Status: Very Limited 
 ```
 
 > **You are very unlikely to get a seat**
 > - Because of limited opening hour
+> - Reservation is suspended
 {: .notice--warning}
 
 
@@ -37,6 +38,9 @@ Status: Limited
 
 Location
 : 〒111-0032, 1 Chome-37-4 Asakusa, 台東区 Taito City, Tokyo
+
+Since
+: {{ page.since }}
 
 Best Time to Visit
 : Unknown

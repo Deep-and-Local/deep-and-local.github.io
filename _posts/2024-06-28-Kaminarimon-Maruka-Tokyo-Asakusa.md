@@ -1,0 +1,67 @@
+---
+title: "Kaminarimon Maruka"
+author:
+  status: welcome
+  last_modified_at: 2024-06-28
+image: 
+  path: /images/Kaminarimon-Maruka.jpg
+  thumbnail: /images/Kaminarimon-Maruka.jpg
+  # caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
+categories:
+  - Noodle
+tags:
+  - Ancient (Founded Before 1900)
+since: 1895
+share: false
+request: false
+---
+
+```yaml
+Status: Welcome 
+```
+
+> **You are likely to get a seat**
+> 
+{: .notice--info}
+
+> **You cannot reserve a seat**
+> - Reservation Not Available
+{: .notice--danger}
+
+
+<p>　</p>
+
+
+## Shop Infomation
+<!-- <a href="https://www.asakusaimahan.co.jp/english" class="btn btn--inverse">Official Webpage in English</a> -->
+
+<div class="map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.613005515967!2d139.79455287592984!3d35.71113977257756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ec6c0655e85%3A0x156b55249f2ff659!2sKaminarimon%20Maruka!5e0!3m2!1sen!2sjp!4v1719534473024!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<p></p>
+
+Location
+: 〒111-0032, 1 Chome−1−5, Asakusa, Taito City, Tokyo
+
+Since
+: {{ page.since }}
+
+Best Time to Visit
+: Unknown
+
+Opening Hours
+: 11:00 - 18:30 (Closed Tue. & 3rd Wed.)
+
+Expected Price
+: ￥1,500
+
+Cash Only?
+: QR Code Payments Available / Credit Cards Not Available
+
+Smoking
+: Smoking Not Available
+
+
+`There is no guarantee that the information on this website is absolutely correct. These are not the official terms and conditions stated by the shop itself.`
+
