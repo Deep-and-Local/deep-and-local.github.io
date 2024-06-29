@@ -1,5 +1,5 @@
 ---
-title: Era-based List
+title: Founding Years
 layout: tags
 permalink: /tags/
 show_excerpts: true

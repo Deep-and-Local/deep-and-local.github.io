@@ -29,13 +29,15 @@ Status: Welcome
 
 
 ## Shop Infomation
-Founded in the 13th year of the Meiji era (1880), located at 1-1 Asakusa. Japan's first bar, beloved by many literary masters.
-
 <p class="site-description">
+"Founded in the 13th year of the Meiji era (1880), located at 1-1 Asakusa. Japan's first bar, beloved by many literary masters."
 (Translated based on the official webpage)
 </p>
 
 <!-- <a href="https://www.asakusaimahan.co.jp/english" class="btn btn--inverse">Official Webpage in English</a> -->
+
+> Kamiya Bar is renowned for its special liquor, 'Denki Bran,' a brandy-based cocktail that has been famous since the Meiji era.  A visit to Kamiya Bar isn't complete without trying Denki Bran, available in both standard (ALC. 30%) and classic (ALC. 40%) versions. Denki Bran is not only celebrated for its historical significance but also appears in novels and poetry. The first floor houses the bar, while the second floor features a casual retro-style restaurant where families with children are welcome— and yes, the restaurant also serves Denki Bran.
+> <footer>Comment by Deep&Local</footer>
 
 <div class="map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.6214953622903!2d139.79273939678953!3d35.71093090000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ebf399b16b5%3A0xa9645897f4945a4a!2sKamiya%20Bar!5e0!3m2!1sen!2sjp!4v1719478105124!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -29,10 +29,8 @@ Status: Unknown
 
 
 ## Shop Infomation
-
-Founded in the first year of the Ansei era (1854), the shop began by opening a teahouse in a corner of the Asakusa Temple annex, Umezon-in. The shop name "Umezono" also has its origins there. The first generation earned a good reputation with the original Awazen-zai, making it a famous Tokyo specialty. Since then, for over 170 years, we have inherited the tradition as a sweets shop. Currently, we also sell Anmitsu and Japanese sweets in our stores.
-
 <p class="site-description">
+'Founded in the first year of the Ansei era (1854), the shop began by opening a teahouse in a corner of the Asakusa Temple annex, Umezon-in. The shop name "Umezono" also has its origins there. The first generation earned a good reputation with the original Awazen-zai, making it a famous Tokyo specialty. Since then, for over 170 years, we have inherited the tradition as a sweets shop. Currently, we also sell Anmitsu and Japanese sweets in our stores.'
 (Translation based on the official webpage)
 </p>
 <!-- > <footer>Translation based on the official webpage</footer> -->

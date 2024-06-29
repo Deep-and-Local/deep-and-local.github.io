@@ -29,9 +29,8 @@ Status: Limited
 
 
 ## Shop Infomation
-Asakusa Mugitora has been serving our customers since the 4th year of the Showa era (1929) by the Sumida River. With the desire to have everyone enjoy a bowl of mugitoro, we have continued our journey to this day.
-
 <p class="site-description">
+"Asakusa Mugitora has been serving our customers since the 4th year of the Showa era (1929) by the Sumida River. With the desire to have everyone enjoy a bowl of mugitoro, we have continued our journey to this day." 
 (Translation based on the official webpage)
 </p>
 

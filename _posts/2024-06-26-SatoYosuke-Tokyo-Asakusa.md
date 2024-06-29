@@ -29,9 +29,8 @@ Status: Welcome
 
 
 ## Shop Infomation
-The prototype of Inaniwa dried udon noodles was passed down in Inaniwa and its technique was inherited, researched, and improved by the head of the Sato family, Kizaemon Inaniwa, with the method being established in the 5th year of the Kanbun era (1665). The technique of making dried udon, which became the specialty of the Satake clan, the lords of Akita, was kept strictly within the Kizaemon family, passed down from one generation to the next. However, Kizaemon, worried about the technique dying out, specially taught it to Sato Yosuke II, which marked the founding of our family business. This was in the first year of the Man'en era (1860), towards the end of the Edo period. During the Meiji era, we received the honor of being purchased by the Imperial Household Ministry and have won many awards.
-
 <p class="site-description">
+"The prototype of Inaniwa dried udon noodles was passed down in Inaniwa and its technique was inherited, researched, and improved by the head of the Sato family, Kizaemon Inaniwa, with the method being established in the 5th year of the Kanbun era (1665). The technique of making dried udon, which became the specialty of the Satake clan, the lords of Akita, was kept strictly within the Kizaemon family, passed down from one generation to the next. However, Kizaemon, worried about the technique dying out, specially taught it to Sato Yosuke II, which marked the founding of our family business. This was in the first year of the Man'en era (1860), towards the end of the Edo period. During the Meiji era, we received the honor of being purchased by the Imperial Household Ministry and have won many awards." 
 (Translated based on the official webpage)
 </p>
 

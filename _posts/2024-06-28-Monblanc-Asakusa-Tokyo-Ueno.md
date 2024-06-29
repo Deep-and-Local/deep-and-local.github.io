@@ -35,7 +35,7 @@ Monblanc is a very delicious restaurant that serves hamburg steaks cooked on an 
 (Translation based on the official webpage)
 </p>
 
-> Are you tired of Japanese traditional foods? Monblanc (not Mont Blanc) is a 'western-style' restaurant particularly popular by local people. To be hornest, the menu is pretty standard. However, you can tell that there is something special about this restaurant once you visit.
+> Are you tired of Japanese traditional foods? If you are looking for a real local restaurant, Monblanc (not Mont Blanc) can be a choice. It is a 'western-style' restaurant particularly popular by local people. To be hornest, the menu is pretty standard. However, you can tell that there is something special about this restaurant once you visit.
 > <footer>Comment by Deep&Local</footer>
 
 <div class="map">

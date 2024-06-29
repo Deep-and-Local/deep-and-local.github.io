@@ -26,10 +26,8 @@ Status: Unknown
 
 
 ## Shop Infomation
-
-Koyanagi is known for its irresistible aroma drifting from the storefront, enticing many people to enter. The interior is always lively with people seeking popular dishes like Unajū (grilled eel over rice) and Tamagoyaki (Japanese omelette). Additionally, the tatami room, which can accommodate up to about 30 people, is perfect for memorial services and gatherings. It is located right next to Asakusa Public Hall.
-
 <p class="site-description">
+"Koyanagi is known for its irresistible aroma drifting from the storefront, enticing many people to enter. The interior is always lively with people seeking popular dishes like Unajū (grilled eel over rice) and Tamagoyaki (Japanese omelette). Additionally, the tatami room, which can accommodate up to about 30 people, is perfect for memorial services and gatherings. It is located right next to Asakusa Public Hall." 
 (Translation based on the official webpage)
 </p>
 

@@ -33,13 +33,12 @@ Status: Limited
 
 
 ## Shop Infomation
-Imahan was founded in the 28th year of the Meiji era and has now reached its 129th year. 
+<p class="site-description">
+"Imahan was founded in the 28th year of the Meiji era and has now reached its 129th year. 
 It all began when the founder, Hantaro Aizawa, set out from Bizen Province to Tokyo to start a culinary business. 
 The 'Han' in our name 'Imahan' comes from Hantaro's name. Hantaro's sukiyaki, made with a special sauce prepared by the fifth generation following a secret family recipe, can be enjoyed with your cherished companions, friends, and family. 
 We will continue to strive to bring you delicious sukiyaki. We sincerely appreciate your continued patronage. 
-Reservations are accepted for parties of two or more.
-
-<p class="site-description">
+Reservations are accepted for parties of two or more." 
 (Translation based on the official webpage)
 </p>
 

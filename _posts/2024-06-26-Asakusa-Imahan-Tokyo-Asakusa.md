@@ -29,9 +29,8 @@ Status: Welcome
 
 
 ## Shop Infomation
-"Welcome to Asakusa Imahan, where we honor the rich traditions of Japanese cuisine while embracing modern innovation. Our renowned restaurant specializes in Sukiyaki and Shabu-Shabu dishes, meticulously prepared using techniques passed down through generations."
-
 <p class="site-description">
+"Welcome to Asakusa Imahan, where we honor the rich traditions of Japanese cuisine while embracing modern innovation. Our renowned restaurant specializes in Sukiyaki and Shabu-Shabu dishes, meticulously prepared using techniques passed down through generations." 
 (Extracted from the official webpage)
 </p>
 
