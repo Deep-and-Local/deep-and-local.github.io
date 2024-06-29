@@ -1,5 +1,5 @@
 ---
-title: Discover
+title: Discover Shops
 layout: discover
 permalink: /discover/
 sitemap: false
